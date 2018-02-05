@@ -7,7 +7,11 @@ Just a small template to deploy wikijs using Docker, using the the Wikijs provid
 * Docker
 
 ## Steps
-```ßß
+```
 docker-compose up
 ```
+
+Access through `localhost` in your browsers. 
+
+And as per [Wikijs docker instructions](https://docs.requarks.io/wiki/docker) use the default created admin account `admin@example.com` and password `admin123`ßß
 
